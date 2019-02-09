@@ -57,6 +57,8 @@ namespace ConsoleApp1
         public static Node ThirdFloor;
         public static Node FourthFloor;
 
+
+
         public void setup()
         {
             FirstFloor = new Node();
